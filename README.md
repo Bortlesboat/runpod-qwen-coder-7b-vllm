@@ -1,6 +1,21 @@
 # Qwen 2.5 Coder 7B Worker For RunPod Hub
 
+[![RunPod](https://api.runpod.io/badge/Bortlesboat/runpod-qwen-coder-7b-vllm)](https://console.runpod.io/hub/Bortlesboat/runpod-qwen-coder-7b-vllm)
+
 This repo packages an OpenAI-compatible `vLLM` worker around `Qwen/Qwen2.5-Coder-7B-Instruct` for lower-cost 24 GB GPU deployments on RunPod Serverless.
+
+Deploy on RunPod Hub:
+
+- https://console.runpod.io/hub/Bortlesboat/runpod-qwen-coder-7b-vllm
+
+Good search terms for this listing:
+
+- `qwen coder 7b`
+- `qwen2.5-coder-7b-instruct`
+- `coding assistant`
+- `code completion`
+- `vllm`
+- `openai-compatible`
 
 It is meant for practical coding use cases:
 
